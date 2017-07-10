@@ -1,0 +1,5 @@
+com\mobin\dao\models\BaseTest.class
+com\mobin\dao\models\CatalogTest.class
+com\mobin\dao\models\CatalogProductServiceTest.class
+com\mobin\dao\models\StudentTest.class
+com\mobin\dao\models\ProductServiceTest.class

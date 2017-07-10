@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+entitygen.DEFAULT_PACKAGE=model
+org.eclipse.jpt.core.platform=hibernate2_1
+org.eclipse.jpt.jpa.core.discoverAnnotatedClasses=false
+problem.MAPS_ID_VALUE_NOT_SPECIFIED=error
+problem.MAP_KEY_CLASS_NOT_EXIST=error
+problem.PERSISTENCE_NO_PERSISTENCE_UNIT=ignore
+problem.PERSISTENCE_UNIT_NONEXISTENT_MAPPING_FILE=error
+problem.PERSISTENCE_XML_UNSUPPORTED_CONTENT=ignore
+problem.PERSISTENT_ATTRIBUTE_INVALID_MAPPING=error
+problem.PROJECT_NO_PERSISTENCE_XML=ignore
+problem.TYPE_MAPPING_ID_CLASS_MISSING_HASHCODE_METHOD=error
+workspace_validation_preferences_overridden=true
